@@ -1,4 +1,6 @@
 # Nubank - Login - FIAP
+Este projeto é meramente um exemplo de aplicação de login usando springboot e docker para fins acadêmicos. 
+
 
 ### Tutorial / Full Information
 
