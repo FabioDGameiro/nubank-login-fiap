@@ -2,7 +2,7 @@
 Este projeto é meramente um exemplo de aplicação de login usando springboot e docker para fins acadêmicos. 
 
 
-### Tutorial / Full Information
+### Para Utilizar
 
 1. mvn clean install
 2. java -jar target/login-nubank-fiap.jar
