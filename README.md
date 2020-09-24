@@ -12,3 +12,5 @@
 - mvn clean install
 - docker build --tag login-nubank-fiap .
 - docker run --net=host login-nubank-fiap
+
+Based on https://github.com/gustavoponce7/spring-login
